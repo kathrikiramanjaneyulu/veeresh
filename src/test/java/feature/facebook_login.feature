@@ -11,6 +11,4 @@ Feature: Facebook Login
     |jh       |97      |
 
 
-    Examples:
-    |user name|password|
-    |rammdik|v123424|
+
