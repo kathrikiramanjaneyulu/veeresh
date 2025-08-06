@@ -8,3 +8,4 @@ Feature: Facebook Login
 
     Examples:
     |user name|password|
+    |rammdik|v123424|
