@@ -9,6 +9,6 @@ Feature: Facebook Login
     Examples:
     |user name|password|
     |jh       |97      |
-
+    |qweqe    |21313   |
 
 
