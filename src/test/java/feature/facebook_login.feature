@@ -11,5 +11,6 @@ Feature: Facebook Login
     |user name|password|
     |jh       |97      |
     |qweqe    |21313   |
+    |asasa    |   ww   |
 
 
